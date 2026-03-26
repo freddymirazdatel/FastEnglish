@@ -93,7 +93,7 @@ DATA = {
             {"word": "HEAD", "correct": "baş", "all": ["baş", "üz", "saç"]},
             {"word": "HAIR", "correct": "saç", "all": ["saç", "göz", "burun"]},
             {"word": "NOSE", "correct": "burun", "all": ["burun", "ağız", "qulaq"]},
-            {"word": "MOUTH", "correct": "ağiz", "all": ["ağız", "dil", "diş"]},
+            {"word": "MOUTH", "correct": "ağız", "all": ["ağız", "dil", "diş"]},
             {"word": "FOOT", "correct": "ayaq", "all": ["ayaq", "əl", "barmaq"]},
             {"word": "ARM", "correct": "qol", "all": ["qol", "çiyin", "dirsək"]},
             {"word": "LEG", "correct": "qıç", "all": ["qıç", "diz", "ayaq"]},
